@@ -45,7 +45,7 @@ The project is designed to be responsive, adapting to various screen sizes. The 
 1. Clone or fork the project repository.
 
 ```bash
-git clone https://github.com/your-username/eat-me-landing-page.git
+git clone https://github.com/ConfordH/Eat-me.git
 ```
 
 2. Open the `index.html` file in your preferred web browser.
